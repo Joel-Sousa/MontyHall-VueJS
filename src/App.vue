@@ -1,6 +1,9 @@
 <template>
   <div id="app">
-      <h1>Monty Hall</h1>
+      <h1>Desafio de Monty Hall</h1>
+      <span v-if="started">Clique na porta para seleciona-la!</span>
+      <span v-if="started">Clique maçaneta para abrir a porta!</span>
+      <br/>
     <!-- <Door number="1" :hasGift="false" /> -->
     <div class="form">
         <div v-if="!started">
