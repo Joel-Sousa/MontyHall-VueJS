@@ -1,4 +1,4 @@
-### Veja a aplicação funcionando em: [Monty Hall](https://montyhall-with-vuejs.netlify.app/)
+### Veja a aplicação funcionando em: [MontyHall-Vue.js](https://montyhall-with-vuejs.netlify.app/)
 
 
 # montyhall
